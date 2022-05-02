@@ -9,3 +9,4 @@
 			</div>
 		<?php endforeach; ?>
 	</div>
+	<link rel="stylesheet" type="text/css" href="http://bootswatch.com/cerulean/bootstrap.min.css">
